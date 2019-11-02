@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba368b5-4c5a-4b70-99e8-2aedb4585335" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="275" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course08/FileSystemSinkApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="e#35#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="138" column="20" lean-forward="true" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>invoke</find>
+      <find>readC</find>
+      <find>org.apache.flink</find>
+      <find>readCsv</find>
+      <find>socketTe</find>
+      <find>println</find>
+      <find>mys</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/CounterApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/DistributedCacheApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/BroadcastVariablesApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/CustomNonParallelSourceFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/CustomRichParallelSourceFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/CustomParallelSourceFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaCustomNonParallelSourceFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaCustomRichParallelSourceFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaDataStreamSourceApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaDataStreamTransformationApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/DataStreamTransformationApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/SinkToMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaCustomSinkToMySQL.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course06/TableSQLAPI.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/course06/JavaTableSQLAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/DataStreamSourceApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WindowsApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WindowsReduceApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WaterMarkB.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WaterMark.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/imooc/flink/course08/FileSystemSinkApp.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="add-dependencies-for-IDEA" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Flink Quickstart Job" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Flink Quickstart Job" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="course04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="course05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="course06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="course07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-flink-train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-flink-train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="course08" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.flink.course07" />
+      <recent name="com.imooc.flink.course05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\imooc-flink-train\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FileSystemSinkApp">
+    <configuration name="FileSystemSinkApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.flink.course08.FileSystemSinkApp" />
+      <module name="imooc-flink-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.flink.course08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaTableSQLAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.flink.course06.JavaTableSQLAPI" />
+      <module name="imooc-flink-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.flink.course06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterMark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.flink.course07.WaterMark" />
+      <module name="imooc-flink-train" />
+      <option name="VM_PARAMETERS" value="-Dhostname=localhost -Dport=9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.flink.course07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.flink.course07.WindowsApp" />
+      <module name="imooc-flink-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.flink.course07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsReduceApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.flink.course07.WindowsReduceApp" />
+      <module name="imooc-flink-train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.flink.course07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaTableSQLAPI" />
+      <item itemvalue="Application.WaterMark" />
+      <item itemvalue="Application.WindowsApp" />
+      <item itemvalue="Application.WindowsReduceApp" />
+      <item itemvalue="Application.FileSystemSinkApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileSystemSinkApp" />
+        <item itemvalue="Application.WaterMark" />
+        <item itemvalue="Application.WindowsReduceApp" />
+        <item itemvalue="Application.WindowsApp" />
+        <item itemvalue="Application.JavaTableSQLAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/workspace/DW/Awe_Egine_Spark_New/Awe_Engine_Spark" value="PREVIEW" />
+        <entry key="E:/workspace/DW/Awe_Engine_Spark" value="PREVIEW" />
+        <entry key="E:/workspace/DW/Awe_Engine_Spark/Awe_Engine_Spark" value="PREVIEW" />
+        <entry key="E:/workspace/DW/Awe_Engine_Spark1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba368b5-4c5a-4b70-99e8-2aedb4585335" name="Default Changelist" comment="" />
+      <created>1572262586383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572262586383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17489271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Archetypes" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4055866" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27709496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38324022" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.22122905" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="SBT Execute" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.5318436" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3299356" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Maven Executor" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven-2 Build" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/imooc_flink_train$WatermarkTest.ic" NAME="WatermarkTest Coverage Results" MODIFIED="1572690998346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imooc.flink.course07.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaCustomRichParallelSourceFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaDataStreamSourceApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/datastream/SplitStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2168#2169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flink-train-scala/src/main/scala/com/imooc/flink/scala/StreamingJob.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaDataStreamTransformationApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/DataSetTransformationApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course04/JavaDataSetTransformationApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0.jar!/org/apache/flink/streaming/api/scala/DataStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="95" column="6" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0.jar!/org/apache/flink/streaming/api/scala/SplitStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/SplitStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teacher/flink-train/imooc-flink-train/src/main/java/com/imooc/flink/course05/SinkToMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/DataStreamTransformationApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          <folding>
+            <element signature="e#34#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="235" column="9" selection-start-line="235" selection-start-column="9" selection-end-line="235" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.0/flink-core-1.7.0-sources.jar!/org/apache/flink/api/common/functions/util/FunctionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/operators/AbstractUdfStreamOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.7.0/flink-runtime_2.11-1.7.0.jar!/org/apache/flink/runtime/taskmanager/Task.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="289" column="35" lean-forward="true" selection-start-line="289" selection-start-column="35" selection-end-line="289" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/sink/RichSinkFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/runtime/tasks/OperatorChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/operators/AbstractStreamOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="724" column="9" lean-forward="true" selection-start-line="724" selection-start-column="9" selection-end-line="724" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/operators/StreamMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/SinkToMySQL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/operators/StreamSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/SinkToMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course05/JavaCustomSinkToMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/DataSetDataSourceApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="e#35#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0.jar!/org/apache/flink/table/api/TableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/DataSetSinkApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-scala_2.11/1.7.0/flink-scala_2.11-1.7.0-sources.jar!/org/apache/flink/api/scala/ExecutionEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="296" column="18" selection-start-line="296" selection-start-column="18" selection-end-line="296" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0-sources.jar!/org/apache/flink/table/api/scala/BatchTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.7.0/flink-java-1.7.0-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1057" column="38" selection-start-line="1057" selection-start-column="18" selection-end-line="1057" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0-sources.jar!/org/apache/flink/table/api/java/BatchTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="56" column="48" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0-sources.jar!/org/apache/flink/table/api/TableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="739" column="36" selection-start-line="739" selection-start-column="31" selection-end-line="739" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="606" column="45" selection-start-line="606" selection-start-column="45" selection-end-line="606" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1274" column="36" selection-start-line="1274" selection-start-column="36" selection-end-line="1274" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="668" column="6" selection-start-line="668" selection-start-column="6" selection-end-line="668" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/course06/JavaTableSQLAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course06/TableSQLAPI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+          <folding>
+            <element signature="e#35#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/KeyedStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5535">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course05/DataStreamSourceApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#34#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14904">
+          <caret line="586" column="8" selection-start-line="586" selection-start-column="8" selection-end-line="586" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WaterMarkB.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WaterMark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WindowsReduceApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course07/WindowsApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#34#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course04/CounterApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="78" />
+          <folding>
+            <element signature="e#34#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/imooc/flink/course08/FileSystemSinkApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="e#35#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="138" column="20" lean-forward="true" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>imooc-flink-train</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.esotericsoftware.kryo:kryo:2.24.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
